@@ -1,13 +1,11 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Aleksander. 
 
 ### 🚀 Sobre Mim
-Desenvolvedor de Software e estudante de Ciência da Computação apaixonado por resolver problemas e construir soluções eficientes.
+Estudante de Ciência da Computação apaixonado por resolver problemas e construir soluções eficientes.
 
-- 🔭 Atualmente trabalhando/estudando em: **[Nome do Projeto Principal ou Foco Atual]**
+- 🔭 Atualmente estudando em: **Universidade Federal da Fronteira Sul.**
 - 🌱 Aprendendo no momento: **[Tecnologia, Ex: Arquitetura de Software / Go / React]**
 - 💬 Pergunte-me sobre: **[Tecnologias que domina, Ex: C, Java, Python, SQL, Linux]**
-- ⚡ Fato curioso: **[Um fato engraçado ou hobby, Ex: Amo café e jogar xadrez]**
-
 ---
 
 ### 🛠️ Linguagens e Ferramentas
